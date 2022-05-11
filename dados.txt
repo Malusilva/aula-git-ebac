@@ -6,6 +6,6 @@ Dados do aluno
 O que faz nas horas vaga: Estudo, gosto de sair com amigos e brincar com os pets
 -Feedback sobre o curso Qualidade de Software: Conteúdo bem rico e dinâmica de ensino esta atendendo minhas expectativas por enquanto rsrsrsr 
 -Feedback sobre a plataforma de estudo da EBAC: Dar uma atenção ao carregamento das imagens na pagina, quando a internet da uma oscilada a imagem não carrega.
-Obrigado!!!
+Obrigado!!
 
 
